@@ -34,4 +34,4 @@ clean_dirs:
 	ls
 	rm -rf 127.0.0.1:8050/
 	rm -rf pages_files/
-	rm -rf joblib
+	rm -rf joblib/
